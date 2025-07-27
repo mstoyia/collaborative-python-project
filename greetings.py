@@ -1,3 +1,2 @@
-
-def farewell(name):
-    return f'Goodbye, {name}!'
+def greet(name):
+    return f'Hello, {name}!'
